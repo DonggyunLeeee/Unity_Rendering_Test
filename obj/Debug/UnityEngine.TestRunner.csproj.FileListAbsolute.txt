@@ -1,0 +1,6 @@
+C:\Repo\test_object\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Repo\test_object\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+C:\Repo\test_object\obj\Debug\UnityEngine.TestRunner.csprojAssemblyReference.cache
+C:\Repo\test_object\obj\Debug\UnityEngine.TestRunner.csproj.CoreCompileInputs.cache
+C:\Repo\test_object\obj\Debug\UnityEngine.TestRunner.dll
+C:\Repo\test_object\obj\Debug\UnityEngine.TestRunner.pdb

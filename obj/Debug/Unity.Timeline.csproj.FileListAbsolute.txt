@@ -1,0 +1,9 @@
+C:\Repo\test_object\Temp\bin\Debug\Unity.Timeline.dll
+C:\Repo\test_object\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Repo\test_object\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\Repo\test_object\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\Repo\test_object\obj\Debug\Unity.Timeline.csprojAssemblyReference.cache
+C:\Repo\test_object\obj\Debug\Unity.Timeline.csproj.CoreCompileInputs.cache
+C:\Repo\test_object\obj\Debug\Unity.Timeline.csproj.CopyComplete
+C:\Repo\test_object\obj\Debug\Unity.Timeline.dll
+C:\Repo\test_object\obj\Debug\Unity.Timeline.pdb
